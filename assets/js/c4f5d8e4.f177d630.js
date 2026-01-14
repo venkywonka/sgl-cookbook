@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunksglang_cookbook=globalThis.webpackChunksglang_cookbook||[]).push([[2634],{192:(o,s,a)=>{a.r(s),a.d(s,{default:()=>c});var k=a(6347),n=a(4848);function c(){return(0,n.jsx)(k.rd,{to:"/docs/intro"})}}}]);

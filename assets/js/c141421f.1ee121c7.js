@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunksglang_cookbook=globalThis.webpackChunksglang_cookbook||[]).push([[3338],{936:a=>{a.exports=JSON.parse('{"name":"docusaurus-theme-search-algolia","id":"default"}')}}]);

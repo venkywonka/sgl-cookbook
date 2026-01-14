@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunksglang_cookbook=globalThis.webpackChunksglang_cookbook||[]).push([[416],{416:(o,k,s)=>{s.r(k)}}]);
